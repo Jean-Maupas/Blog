@@ -2,9 +2,7 @@
 
 ### 24-Mar-2022
 
-While reviewing some documentation for a Vue project, I discovered [Svelte](https://svelte.dev/) through [Modzilla](https://developer.mozilla.org/en-US/docs/Web) suberb [documentation](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)
-
-I couldn't resist joining others' enthusiasm for this JS library.
+While reviewing some documentation for a Vue project, I discovered [Svelte](https://svelte.dev/) through [Modzilla](https://developer.mozilla.org/en-US/docs/Web) suberb [documentation](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)... and I couldn't resist joining others' enthusiasm for this JS library.
 
 Over the past few years (almost 10 actually, jee time flies), I have been using React, Angular (2+), and more recently Vue in different settings. All are OK to work with. I liked the flexibility of React, using JS to build components instead of using templates (I was coming from a server word where webpages are templates and I disliked templates for this reason). But I disliked the complexity of the code that could result from the lack of design choices in the toolspace. Angular brought some kind of organization by default but ended up in a large number of lines that only MS guys would really like. Vue was a good compromise, with a lot of the issues found with React or Angular addressed upfront. But its syntax was still heavier than necessary. Why? Mainly because of the model followed by all these platforms, which was to interactively update the DOM with the library loaded at runtime.
 
